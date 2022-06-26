@@ -1,2 +1,2 @@
-# Kotlin-Simple-CRUD-Firebase
+# Aplikasi-Pendataan-Mahasiswa
 Very simple Kotlin CRUD on Firebase
